@@ -15,5 +15,5 @@
 - Excel
 
 #### NB: THIS IS NOT INVESTMENT ADVICE!! the files in this profile are indicative of my learning and research journey over years and may be useful to someone else on the same path.
-#### Open to modifications and corrections, please leave a ⭐ if you found something useful. 
-#### _note that these are files that were once offline that I am uploading after cleaning the code and organising the files, somthing may be out of place or incomplete. I am constantly improving and updating this profile to ensure that all files are present and all descriptions are given. Thank you!_
+#### Open to modifications and corrections, please leave a ⭐ if you found something helpful. 
+#### _note that these are resources that were once offline that I am uploading after cleaning the code and organising the files, something may be out of place or incomplete. I am constantly improving and updating this profile to ensure that all files are present and all descriptions are given. Thank you!_
