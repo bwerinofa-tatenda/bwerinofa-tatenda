@@ -1,14 +1,19 @@
-<img src = "data.png">
+<img src = "profile.png">
 
 # Hi there I'm Tate 👋
 
-- Hardcore python groupie
-- Quant investing stan
-- Machine learning puppy
-- Hardcore python groupie
-- Appreciator of R and Excel
-- Married: Economics
-- Side: Mathematics
+### 📈 💻 🔣 💸 I enjoy investing, data analysis, finance and quantitative research
+### 🤖 💱 🖥️ 💰 I'm into data science, machine learing, programming, math and economics
 
+## Programming Languages
+- Python
+- R
+- VBA (Visual Basic for Applications)
+- SQL
 
+## Software Applications
+- Excel
 
+#### NB: THIS IS NOT INVESTMENT ADVICE!! the files in this profile are indicative of my learning journey and may be useful to someone else on the same path.
+#### Open to modifications and corrections, please leave a ⭐ if you found something useful. 
+#### _note that these are files that were once offline that I am uploading after cleaning the code and organising the files, somthing may be out of place or incomplete. I am aware that some README comits are incomplete, however constantly inproving and updating this profile to ensure that all files are present and all descriptions are given. I appreciate your patience!_
