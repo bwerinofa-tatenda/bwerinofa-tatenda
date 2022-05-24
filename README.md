@@ -1,4 +1,4 @@
-<img src = "data.PNG">
+<img src = "data.png">
 
 # Hi there I'm Tate 👋
 
