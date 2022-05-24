@@ -3,7 +3,7 @@
 # Hi there I'm Tate 👋
 
 ### 📈 💻 🔣 💸 I enjoy investing, data analysis, finance and quantitative research
-### 🤖 💱 🖥️ 💰 I'm into data science, machine learing, programming, math and economics
+### 🤖 💱 🖥️ 💰 I'm into data science, machine learning, programming, math and economics
 
 ## Programming Languages
 - Python
