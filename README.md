@@ -1,3 +1,5 @@
+<img src = "data.PNG">
+
 # Hi there I'm Tate 👋
 
 - Hardcore python groupie
