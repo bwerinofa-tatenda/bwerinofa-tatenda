@@ -1,6 +1,6 @@
 <img src = "profile.png">
 
-# Hi there I'm Tate 👋
+# Hi there I'm Tatenda 👋
 
 ### 📈 💻 🔣 💸 I enjoy investing, data analysis, finance and quantitative research
 ### 🤖 💱 🖥️ 💰 I'm into data science, machine learning, programming, math and economics
